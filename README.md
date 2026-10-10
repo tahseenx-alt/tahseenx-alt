@@ -10,9 +10,17 @@
 - Practicing Data Structures and Algorithms
 - Building frontend projects using HTML, CSS, and JavaScript
 
+
 ## 🛠️ Tools & Technologies
-- Languages: C++, JavaScript, HTML, CSS
-- Tools: Git, GitHub, VS Code
+
+- **Languages:** C, C++, JavaScript, HTML, CSS
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Deployment:** Vercel, Render
+- **DevOps & Tools:** Docker, Git, GitHub, VS Code
+- **Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
+
 
 ## 📫 Connect With Me
 - GitHub: [@tahseenx-alt](https://github.com/tahseenx-alt)
